@@ -14,7 +14,24 @@ reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용�
 
 개발하면서 마주한 자주 사용되는 팁 & 문제 해결 노트
 
-Coding tip & 
+Coding tip & promblem-solving note 
 
+Correct coding & mistake solve
+
+Seminar & Conference
+
+Github
+
+Git
+
+HTML & CSS
 
 Javascript
+
+Typescript
+React
+Aligorithm
+Python
+Coding test
+
+
