@@ -24,6 +24,7 @@ Seminar & Conference
 Github
 
 Git
+[링크 텍스트](https://google.com)
 
 HTML & CSS
 [googlelink]: https://google.com "Go google"
