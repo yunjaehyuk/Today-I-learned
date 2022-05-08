@@ -26,7 +26,7 @@ Github
 Git
 
 HTML & CSS
-
+[googlelink]: https://google.com "Go google"
 Javascript
 
 Typescript
