@@ -35,7 +35,7 @@ reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용�
 
 ## HTML & CSS
 * ### [HTML & CSS]
-  * [[HTML & CSS] concept]([https://github.com/yunjaehyuk/Today-I-learned/blob/main/Javascript/%5BJavascript%5D.md](https://github.com/yunjaehyuk/Today-I-learned/blob/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept.md)) 
+  * [[HTML & CSS] concept](https://github.com/yunjaehyuk/Today-I-learned/blob/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept.md) 
   * baekjoon answer
   * coding tip
 ## Javascript
