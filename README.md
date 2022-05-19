@@ -51,6 +51,6 @@ reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용�
   * coding tip
 ## Coding test
 * ### baekjoon
-  * baekjoon exam 
-  * baekjoon answer
+  * [baekjoon exam](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Coding%20test/baekjoon/exam)
+  * [baekjoon answer](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Coding%20test/baekjoon/answer)
 * ### coding test tip
