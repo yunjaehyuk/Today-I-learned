@@ -35,36 +35,22 @@ reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용�
 
 ## HTML & CSS
 * ### [HTML & CSS]
-  * [[HTML & CSS] concept](https://github.com/yunjaehyuk/Today-I-learned/blob/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept.md) 
+  * [HTML & CSS] concept
   * baekjoon answer
   * coding tip
+[googlelink]: https://google.com "Go google"
 ## Javascript
-* ### [Javascript] 
-  * [[Javascript] concept](https://github.com/yunjaehyuk/Today-I-learned/blob/main/Javascript/%5BJavascript%5D.md) 
-  * baekjoon answer
-  * coding tip
+
 ## Typescript
-* ### Typescript
-  * [Typescript] concept
-  * baekjoon answer
-  * coding tip
 ## React
-* ### React
-  * [React] concept
-  * baekjoon answer
-  * coding tip
 ## Aligorithm
-* ### Github
-  * baekjoon exam 
-  * baekjoon answer
-  * coding tip
 ## Python
 * ### [Python] 
-  * [[Python] concept](https://github.com/yunjaehyuk/Today-I-learned/blob/main/Python/%5BPython%5D%20concept.md) 
+  * [Python] concept 
   * [Python] 
   * coding tip
 ## Coding test
 * ### baekjoon
-  * [baekjoon exam](https://github.com/yunjaehyuk/Today-I-learned/blob/main/Coding%20test/baekjoon/baekjoon%20exam.md)
-  * [baekjoon answer](https://github.com/yunjaehyuk/Today-I-learned/blob/main/Coding%20test/baekjoon/baekjoon%20answer.md)
-  * [coding tip]
+  * baekjoon exam 
+  * baekjoon answer
+* ### coding test tip
