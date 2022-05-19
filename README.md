@@ -31,22 +31,21 @@ reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용�
   * Git 
   * baekjoon answer
   * coding tip
-[링크 텍스트](https://google.com)
 
 ## HTML & CSS
 * ### [HTML & CSS]
-  * [HTML & CSS] concept
+  * [[HTML & CSS] concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept)
   * baekjoon answer
   * coding tip
-[googlelink]: https://google.com "Go google"
 ## Javascript
-
+* ### [Javascript]
+   * [[Javascript] concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept)
 ## Typescript
 ## React
 ## Aligorithm
 ## Python
 * ### [Python] 
-  * [Python] concept 
+  * [[Python] concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Python/%5BPython%5D%20concept)
   * [Python] 
   * coding tip
 ## Coding test
