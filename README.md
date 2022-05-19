@@ -15,25 +15,42 @@ reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용�
 개발하면서 마주한 자주 사용되는 팁 & 문제 해결 노트
 
 # 분류
-Coding tip & promblem-solving note 
+## Coding tip & promblem-solving note 
 
-Correct coding & mistake solve
+## Correct coding & mistake solve
 
-Seminar & Conference
+## Seminar & Conference
 
-Github
-
-Git
+## Github
+* ### Github
+  * baekjoon exam 
+  * baekjoon answer
+  * coding tip
+## Git
+* ### Git
+  * Git 
+  * baekjoon answer
+  * coding tip
 [링크 텍스트](https://google.com)
 
-HTML & CSS
+## HTML & CSS
+* ### [HTML & CSS]
+  * [HTML & CSS] concept
+  * baekjoon answer
+  * coding tip
 [googlelink]: https://google.com "Go google"
-Javascript
+## Javascript
 
-Typescript
-React
-Aligorithm
-Python
-Coding test
-
-
+## Typescript
+## React
+## Aligorithm
+## Python
+* ### [Python] 
+  * [Python] concept 
+  * [Python] 
+  * coding tip
+## Coding test
+* ### baekjoon
+  * baekjoon exam 
+  * baekjoon answer
+  * coding tip
