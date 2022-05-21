@@ -99,13 +99,6 @@ html element 요소 찾는 것이 가능하다.
 
 글자에 마우스를 올리면 나타남. 태그의 속성이다.
 
-**반복되는 단어 한방에 수정**
-
-Ctrl + D(한번씩 일일이 눌러줘야함 / 귀찮으면 Ctrl + F2)
-
-**사이드바 숨기기**
-
-Hide / Show Sidebar: ⌘ + B or Ctrl + B
 
 ### ****2.8 Form Tags****
 
@@ -113,7 +106,7 @@ Hide / Show Sidebar: ⌘ + B or Ctrl + B
 
 **input tag** = 입력창 만드는 태그
 
-**input type** =’ “ input의 유형을 만드는 태그“ 
+**input type** = input의 유형을 만드는 태그
 
 **input placeholder** = 무엇을 입력해야 하는지 안내하는 속성
 
