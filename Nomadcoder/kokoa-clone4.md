@@ -1,15 +1,15 @@
 ### 4 ADVANCED CSS
 
 **4.0 Transitions**
-    - **transitions**
+ **transitions**
         
-        어떤 상태에서 다른 상태로의 “변화”를 애니메이션으로 만드는 방법이다.
+어떤 상태에서 다른 상태로의 “변화”를 애니메이션으로 만드는 방법이다.
         
-        state가 없는 요소에 붙여야한다.
+state가 없는 요소에 붙여야한다.
         
-        바뀌는 것들에 한정해서 transition이 일어날 수 있다.
+바뀌는 것들에 한정해서 transition이 일어날 수 있다.
         
-        가장 처음 생겨난 곳에 있어야한다.
+가장 처음 생겨난 곳에 있어야한다.
         
 
 ****4.1 Transitions part Two****
