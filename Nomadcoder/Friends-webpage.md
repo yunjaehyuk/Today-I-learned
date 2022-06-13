@@ -1,9 +1,9 @@
 # friends-website
 status-bar box  
-screen-header box
-friends-display-link box
-friends-screen__channel
-user-component box
+screen-header box  
+friends-display-link box  
+friends-screen__channel  
+user-component box  
 
 ## friends-display-link box 
 
