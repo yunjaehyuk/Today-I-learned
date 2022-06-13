@@ -1,10 +1,10 @@
 # Find-webpag.md
-status-bar box
-screen-header box
-icon-row box
-recommended-friends box
-open-chat box
-find-post box
+status-bar box  
+screen-header box  
+icon-row box  
+recommended-friends box  
+open-chat box  
+find-post box  
 
 ## recommended-friends box
 HTML
