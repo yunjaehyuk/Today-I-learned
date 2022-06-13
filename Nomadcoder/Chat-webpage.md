@@ -1,56 +1,8 @@
-# Chat
-status-bar box
-alt-header box
-main-chat box
-reply box
-
-## alt-header box
-HTML
-```
-<header class="alt-header">
-      <div class="alt-header__column">
-        <a href="chats.html">
-          <i class="fas fa-angle-left fa-2x"></i>
-        </a>
-      </div>
-      <div class="alt-header__column">
-        <h1 class="alt-header__title">Settings</h1>
-      </div>
-      <div class="alt-header__column">
-        <span><i class="fas fa-search fa-lg"></i></span>
-      </div>
-    </header>
-```
-CSS
-```
-.alt-header {
-  padding: var(--horizontal-space);
-  margin-bottom: 15px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.alt-header__column {
-  width: 33%;
-}
-.alt-header__title {
-  font-size: 25px;
-  font-weight: 600;
-}
-
-.alt-header__column:first-child {
-  margin-right: auto;
-}
-.alt-header__column:nth-child(2) {
-  text-align: center;
-}
-.alt-header__column:last-child {
-  margin-left: auto;
-  display: flex;
-  justify-content: flex-end;
-}
-```
-
+# Chat-webpage
+status-bar box  
+alt-header box  
+main-chat box  
+reply box  
 
 
 ## main-chat box
@@ -174,7 +126,7 @@ CSS
 ## reply box
 HTML
 ```
-form class="reply">
+<form class="reply">
       <div class="reply__column">
         <i class="fa-solid fa-square-plus fa-lg"></i>
       </div>
