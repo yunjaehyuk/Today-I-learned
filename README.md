@@ -41,8 +41,8 @@
 ## Typescript
 ## React
 * ### React
-* [concept]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/React/concept))
-* [Nomadcoder]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/Nomadcoder](https://github.com/yunjaehyuk/Today-I-learned/tree/main/React/Nomadcoder))
+* [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/React/concept)
+* [Nomadcoder](https://github.com/yunjaehyuk/Today-I-learned/tree/main/React/Nomadcoder)
 ## Aligorithm
 ## Python
 * ### Python]
