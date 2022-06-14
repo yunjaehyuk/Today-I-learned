@@ -31,20 +31,21 @@
   * Git 
 
 ## HTML & CSS
-* ### [HTML & CSS]
-  * [concept]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/concept)
+* ### HTML & CSS
+  * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/concept)
   * [Nomadcoder](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/Nomadcoder)
 ## Javascript
-* ### [Javascript]
+* ### Javascript
    * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept)
-   * [Nomadcoder]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/Nomadcoder))
+   * [Nomadcoder](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/Nomadcoder)
 ## Typescript
 ## React
+* ### React
 * [concept]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/React/concept))
 * [Nomadcoder]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/Nomadcoder](https://github.com/yunjaehyuk/Today-I-learned/tree/main/React/Nomadcoder))
 ## Aligorithm
 ## Python
-* ### [Python] 
+* ### Python]
   * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Python/%5BPython%5D%20concept)
   * [Python] 
   * coding tip
