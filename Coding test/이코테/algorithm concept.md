@@ -1,5 +1,5 @@
-algorithm concept.md
-**2. 그리디 & 구현**
+algorithm concept.md  
+**2. 그리디 & 구현**  
 
 동전 최소로 나누기
 
