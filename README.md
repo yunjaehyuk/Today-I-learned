@@ -29,15 +29,11 @@
 ## Git
 * ### Git
   * Git 
-  * baekjoon answer
-  * coding tip
 
 ## HTML & CSS
 * ### [HTML & CSS]
-  * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept)
+  * [concept]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/concept))
   * [Nomadcoder]([https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/%5BHTML%26CSS%5D%20concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/HTML%26CSS/Nomadcoder))
-  * baekjoon answer
-  * coding tip
 ## Javascript
 * ### [Javascript]
    * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Javascript/%5BJavascript%5D.concept)
