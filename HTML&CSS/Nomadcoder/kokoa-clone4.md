@@ -1,7 +1,6 @@
 ### 4 ADVANCED CSS
 
 **4.0 Transitions**
- **transitions**
         
 어떤 상태에서 다른 상태로의 “변화”를 애니메이션으로 만드는 방법이다.
         
