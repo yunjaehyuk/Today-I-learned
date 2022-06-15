@@ -23,8 +23,7 @@
 
 ## Github
 * ### Github
-  * baekjoon exam 
-  * baekjoon answer
+
   * coding tip
 ## Git
 * ### Git
@@ -46,9 +45,8 @@
 ## Aligorithm
 ## Python
 * ### Python]
-  * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Python/%5BPython%5D%20concept)
-  * [Python] 
-  * coding tip
+  * [concept](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Python/%5BPython%5D%20concept) 
+  * [coding tip](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Python/Coding%20tip)
 ## Coding test
 * ### baekjoon
   * [baekjoon exam](https://github.com/yunjaehyuk/Today-I-learned/tree/main/Coding%20test/baekjoon/exam)
