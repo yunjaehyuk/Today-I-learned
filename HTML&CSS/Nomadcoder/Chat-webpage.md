@@ -123,6 +123,13 @@ CSS
 }
 }
 ```
+status-bar 와 alt-header를 겹쳐있는 요소와 분리하기 위해서 
+
+
+
+
+
+
 ## reply box
 HTML
 ```
