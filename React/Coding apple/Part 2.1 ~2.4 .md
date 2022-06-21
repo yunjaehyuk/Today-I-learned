@@ -20,6 +20,7 @@
 
 점 찍인 문자는 import하지 않아도 된다.
 
+<br/><br/>
 ## React Part 2.2 **이미지 넣는 법 & public 폴더 이용하기**
 
 **대문만들기 & css파일에서 이미지넣기**
@@ -82,7 +83,7 @@ src 폴더에 있던 코드와 파일은 다 압축이 되는데 public 폴더�
 ```jsx
 <img src={process.env.PUBLIC_URL + '/logo192.png'} />
 ```
-
+<br/><br/>
 ## React Part 2.3 **코드 길어지면 import export 하면 됩니다.**
 
 **export default / import 문법**
@@ -119,4 +120,5 @@ import 작명 from './data.js';
 
 숙제3. 반복적인 부분은 map반복문 써보기
 
+<br/><br/>
 ## React Part 2.4 **저번시간 숙제 해설 (Card 컴포넌트 만들기)**
