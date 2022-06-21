@@ -18,7 +18,7 @@
 
 대문자는 import해야 한다.
 
-점 찍인 문자는 import하지 않아도 된다.
+점 찍인 문자는 import하지 않아도 된다.    
 
 ## React Part 2.2 **이미지 넣는 법 & public 폴더 이용하기**
 
@@ -78,7 +78,7 @@ src 폴더에 있던 코드와 파일은 다 압축이 되는데 public 폴더�
 ```jsx
 <img src={process.env.PUBLIC_URL + '/logo192.png'} />
 ```
-
+    
 ## React Part 2.3 **코드 길어지면 import export 하면 됩니다.**
 
 export 하려면 
@@ -104,7 +104,7 @@ import 작명 from './data.js';
 숙제2. 상품명 데이터바인딩도 해오기
 
 숙제3. 반복적인 부분은 map반복문 써보기
-
+    
 
 
 ## React Part 2.4 **리액트 라우터 1 : 셋팅이랑 기본 라우팅**
