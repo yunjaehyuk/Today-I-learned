@@ -18,9 +18,7 @@
 
 대문자는 import해야 한다.
 
-점 찍인 문자는 import하지 않아도 된다.      
-
-<br/><br/>
+점 찍인 문자는 import하지 않아도 된다.
 
 ## React Part 2.2 **이미지 넣는 법 & public 폴더 이용하기**
 
@@ -35,21 +33,15 @@
 }
 ```
 
-html에서 src폴더의 이미지 넣을 떈
+**html에서 src폴더의 이미지 넣을 떈**
+
+html 안에서 이미지를 집어넣고 싶으면
+
+이미지를 import 해오고 사용해야합니다.
 
 ### **상품목록 레이아웃 만들기**
 
-**상품이미지와 설명넣기**
-
-외부에 호스팅해둔 이미지라면 이미지 절대주소만 넣으면 된다.
-
-```jsx
-<img src="https://codingapple1.github.io/shop/shoes2.jpg" width="80%"/>
-```
-
-html에서 src폴더 이미지 사용할 떈 import부터 해와야 된다.
-
-화면을 가로로 3등분 하고 싶으면 
+**화면을 가로로 3등분 하고 싶으면** 
 
 Bootstrap을 쓰면 레이아웃 짜는게 간편해진다.
 
@@ -62,6 +54,16 @@ Bootstrap을 쓰면 레이아웃 짜는게 간편해진다.
   </div>
 </div>
 ```
+
+**상품이미지와 설명넣기**
+
+외부에 호스팅해둔 이미지라면 이미지 절대주소만 넣으면 된다.
+
+```jsx
+<img src="https://codingapple1.github.io/shop/shoes2.jpg" width="80%"/>
+```
+
+html에서 src폴더 이미지 사용할 떈 import부터 해와야 된다.
 
 ### **public 폴더의 용도**
 
@@ -80,19 +82,29 @@ src 폴더에 있던 코드와 파일은 다 압축이 되는데 public 폴더�
 ```jsx
 <img src={process.env.PUBLIC_URL + '/logo192.png'} />
 ```
-<br/><br/>
+
 ## React Part 2.3 **코드 길어지면 import export 하면 됩니다.**
 
-export 하려면 
+**export default / import 문법**
+
+상품정보들을 state로 만들고 싶은데 useState() 안에 넣기엔 너무 깁니다.
+
+그럴 땐 다른파일에 보관했다가 import해올 수도 있습니다.
+
+예를 들어서 data.js라는 파일이 있는데 거기 있던 변수를 App.js 에서 가져와서 쓰고 싶으면
 
 ```jsx
 let a = 10;
 let b = 100;
 export default 변수
-export{변수1,변수2}
+export {변수1,변수2} // 여러 변수를 내보내고 싶으면 이렇게 쓴다.
 ```
 
-import 하려면 
+export default 변수명; 이렇게 쓰면 원하는 변수를 밖에서 내보낼 수 있다.
+
+export 했던 변수를 다른 파일에서 사용하고 싶으면
+
+**import 작명 from './파일경로'** 하면 됩니다.
 
 ```jsx
 import 작명 from ‘파일경로’
@@ -106,94 +118,5 @@ import 작명 from './data.js';
 숙제2. 상품명 데이터바인딩도 해오기
 
 숙제3. 반복적인 부분은 map반복문 써보기
-    
 
-<br/><br/>
-## React Part 2.4 **리액트 라우터 1 : 셋팅이랑 기본 라우팅**
-
-**페이지 나누는 법(리액트 사용)**
-
-/detail로 접속하면 상세페이지보여주고
-
-/cart로 접속하면 장바구니페이지 보여준다.
-
-index.html 하나밖에 사용안한다.
-
-1.컴포넌트 만들어서 상세페이지 내용 채움
-
-2.누가/detail 접속하면 그 컴포넌트를 보여준다.
-
-**라우팅**
-
-페이지 구분하는 거
-
-react-router-dom 라이브러리 쓰면 쉽게 만들 수 있다.
-
-**리액트 라우터 설치**
-
-1. 터미널에 npm install react-router-dom@6를 입력한다.
-2. index.js에 가서 아래의 코드를 입력한다.
-
-```jsx
-<BrowserRouter>
-    <App />
-    </BrowserRouter>
-```
-
-1. import {Routes, Route, Link} from 'react-router-dom’를 App.js에 가져온다.
-
-내가만든 js파일들은 경로가 “ ./” 로 시작한다.
-
-없는 것들은 라이브러리이다.
-
-**라우터로 페이지 나누는 법**
-
-```jsx
-(App.js)
-
-import { Routes, Route, Link } from 'react-router-dom'
-
-function App(){
-  return (
-    (생략)
-    <Routes>
-      <Route path="/detail" element={ <div>상세페이지임</div> } />
-      <Route path="/about" element={ <div>어바웃페이지임</div> } />
-    </Routes>
-  )
-}
-```
-
-```jsx
-<Route path="/" element={ 
-  <>
-   <div className="main-bg"></div>
-   <div className="container">
-     <div className="row">
-       { shoes.map((a, i)=>{
-         return <Card shoes={shoes[i]} i={i} ></Card>
-        })}
-      </div>
-    </div> 
-  </>
-} />
-```
-
-1. 우선 상단에서 여러가지 컴포넌트를 import 해오고
-2. <Routes> 만들고 그 안에 <Route>를 작성합니다.
-3. <Route path="/url경로" element={ <보여줄html> } /> 이렇게 작성하면 됩니다.
-
-**페이지 이동 버튼** 
-
-```jsx
-<Link to="/">홈</Link>
-<Link to="/detail">상세페이지</Link>
-```
-
-Route
-
-웹사이트의 페이지이다.
-
-**숙제**
-
-상세페이지 컴포넌트로 만들기
+## React Part 2.4 **저번시간 숙제 해설 (Card 컴포넌트 만들기)**
