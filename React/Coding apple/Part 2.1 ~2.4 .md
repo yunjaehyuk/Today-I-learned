@@ -12,9 +12,9 @@
 
 **react-bootstrap 사이트에서 UI 복사붙여넣기 하는법** 
 
-1.  import {Button} from 'react-bootstrap’
+1.  ``` import {Button} from 'react-bootstrap’ ```
 
-2.  <Button variant="primary">Primary</Button>
+2.  ``` <Button variant="primary">Primary</Button> ```
 
 대문자는 import해야 한다.
 
