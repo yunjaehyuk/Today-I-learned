@@ -88,6 +88,21 @@ Route
 상세페이지 컴포넌트로 만들기
 
 ## React Part 2.6 **리액트 라우터 2 : navigate, nested routes, outlet**
+   ** 숙제 상세페이지 컴포넌트 만들기 ** 
+    ```
+    import Detail from './routes/Detail.js'
+
+function App(){
+  return (
+    (생략)
+    <Route path="/detail" element={ <Detail/> } />
+  )
+}
+    ```
+    
+    
+    
+ 
 
 폴더 어떻게 나눔
 
