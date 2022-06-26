@@ -122,3 +122,41 @@ import 작명 from './data.js';
 
 <br/><br/>
 ## React Part 2.4 **저번시간 숙제 해설 (Card 컴포넌트 만들기)**
+
+**숙제1. html 긴 부분 컴포넌트로 만들어보기**
+
+따로 function을 만들어서 컴포넌트 하기
+
+**숙제2. shoes를 Card 컴포넌트에 데이터바인딩 하기**
+
+data.js 에 있던 데이터 정보를 card 컴포넌트에 props 전송하기
+
+컴포넌트를 매번 다르게 보여주고 싶다면 
+
+```jsx
+<Card shoes={shoes[0]} i={1} />
+<Card shoes={shoes[1]} i={2} />
+<Card shoes={shoes[2]} i={3} />
+```
+
+```jsx
+function Card(props){
+  return (
+    <div className="col-md-4">
+      <img src={'https://codingapple1.github.io/shop/shoes' + props.i + '.jpg'} width="80%" />
+      <h4>{ props.shoes.title }</h4>
+      <p>{ props.shoes.price }</p>
+    </div>
+  )
+}
+```
+
+**숙제3. map 반복문**
+
+```
+{
+shoes.map(a,i)(()=> {
+<Card shoes = {shoes[i]} i = {i + 1} />
+}
+
+```
