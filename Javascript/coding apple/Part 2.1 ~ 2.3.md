@@ -71,3 +71,33 @@ alert()
 ```
 
 regular expression (정규 표현식)
+    
+```
+    $('form').on('submit',function(e){
+
+  var 입력한값 = document.getElementById('email').value;
+  if ( /\S+@\S+\.\S+/.test(입력한값) ){
+    alert('이메일형식아님')
+    e.preventDefault();
+  }
+
+});
+    
+```
+    숙제 : 
+
+폼 전송시 유저가 입력한 비번에 영어 대문자가 적어도 1개 있는지 검사해봅시다.
+
+없으면 alert() 띄우거나 맘대로 합시다.
+    
+```
+    $('form').on('submit',function(e){
+
+  var 비번 = document.getElementById('pw').value;
+  if ( /[A-Z]/.test(비번) == false ){
+    alert('대문자없는데요')
+  }
+
+});
+ 
+```
